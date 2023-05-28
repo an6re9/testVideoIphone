@@ -9,9 +9,14 @@ body{
 .video-container{
   display: flex;
   justify-content: center;
+  gap: 10px;
 }
 
 .height-block{
   height: 1000px;
   background-color: cornflowerblue;
+}
+
+video{
+  width: 300px;
 }
